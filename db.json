@@ -1,0 +1,44 @@
+{
+  "todos": [
+    {
+      "id": "3dec",
+      "title": "lavar el carro por debajo",
+      "completed": false
+    },
+    {
+      "id": "f42c",
+      "title": "hacer ejercicio",
+      "completed": false
+    },
+    {
+      "id": "364c",
+      "title": "madrugar",
+      "completed": true
+    },
+    {
+      "id": "589c",
+      "title": "visitar a mama",
+      "completed": true
+    },
+    {
+      "id": "877f",
+      "title": "adelgazar",
+      "completed": true
+    },
+    {
+      "id": "94ab",
+      "title": "comprar la comida del gato",
+      "completed": false
+    },
+    {
+      "id": "8a51",
+      "title": "estudiar ingles",
+      "completed": false
+    },
+    {
+      "id": "9ae9",
+      "title": "ir a misa",
+      "completed": false
+    }
+  ]
+}

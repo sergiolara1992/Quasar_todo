@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "3cd9",
+      "name": "Sergio",
+      "lastName": "Lara",
+      "email": "sergiolaradiaz3@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "6521",
+      "name": "camilo",
+      "lastName": "agudelo",
+      "email": "mechas@gmail.com",
+      "password": "654321"
+    },
+    {
+      "id": "beec",
+      "name": "Natalia",
+      "lastName": "Zapata",
+      "email": "natalia@gmail.com",
+      "password": "tara123456"
+    },
+    {
+      "id": "b82e",
+      "name": "Rodrigo",
+      "lastName": "Lara",
+      "email": "rodrigo10@gmail.com",
+      "password": "lunalara"
+    },
+    {
+      "id": "8b02",
+      "name": "Oscar Ivan",
+      "lastName": "Cediel Pedraza",
+      "email": "oscarivan@gmail.com",
+      "password": "pirrylara10"
+    }
+  ]
+}
